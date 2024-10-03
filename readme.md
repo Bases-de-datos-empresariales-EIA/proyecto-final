@@ -6,9 +6,9 @@ Este proyecto final tiene como objetivo que los estudiantes exploren una base de
 
 ## Introducción al Negocio
 
-La empresa **ABC Retail** es una cadena de tiendas especializadas en la venta de productos de consumo masivo. La empresa opera a través de varias tiendas y trabaja con una amplia red de proveedores para ofrecer productos organizados en diversas categorías y subcategorías, tales como productos electrónicos, alimentos, ropa, entre otros. 
+La empresa **Tiendas EIA** es una cadena de tiendas especializadas en la venta de productos de consumo masivo. La empresa opera a través de varias tiendas y trabaja con una amplia red de proveedores para ofrecer productos organizados en diversas categorías y subcategorías, tales como productos electrónicos, alimentos, ropa, entre otros. 
 
-La gerencia de **ABC Retail** ha recolectado información sobre sus ventas, productos, impuestos, y proveedores en una base de datos relacional. Con el objetivo de mejorar la toma de decisiones estratégicas, la gerencia requiere un informe gerencial que destaque datos e insights clave para optimizar el rendimiento del negocio.
+La gerencia de **Tiendas EIA** ha recolectado información sobre sus ventas, productos, impuestos, y proveedores en una base de datos relacional. Con el objetivo de mejorar la toma de decisiones estratégicas, la gerencia requiere un informe gerencial que destaque datos e insights clave para optimizar el rendimiento del negocio.
 
 Este informe debe incluir análisis detallados de las ventas, márgenes, unidades vendidas, y el rendimiento de las tiendas, productos y categorías, entre otros aspectos. La información presentada permitirá a la gerencia tomar decisiones informadas sobre las estrategias comerciales, operaciones y posibles áreas de mejora dentro de la empresa.
 
