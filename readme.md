@@ -116,7 +116,7 @@ A continuación, se describe la estructura de las tablas y sus columnas:
 ![Diagrama ER](./er_diagram.png)
 
 ### Código DDL para creación de tablas
-![DDL](./ddl.sql)
+[DDL](./ddl.sql)
 
 ### Recomendación
 
