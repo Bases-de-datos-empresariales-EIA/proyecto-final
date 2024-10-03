@@ -100,13 +100,13 @@ A continuación, se describe la estructura de las tablas y sus columnas:
 
 #### Tabla: `venta`
 - **id**: Identificador único de la venta.
-- **valor_venta**: Valor unitario de la venta.
-- **valor_compra**: Valor unitario de la compra.
-- **margen**: Margen unitario de la venta.
+- **valor_venta**: Valor unitario de la venta. Es el valor que el cliente pagó por cada unidad.
+- **valor_compra**: Valor unitario de la compra. Es el valor que se le pagó al proveedor por cada unidad.
+- **margen**: Margen unitario de la venta. Es la venta menos la compra.
 - **unidades**: Número de unidades vendidas.
-- **total_venta**: Total de la venta.
-- **total_compra**: Total de la compra.
-- **total_margen**: Total del margen.
+- **total_venta**: Total de la venta. Es la venta multiplicada por las unidades vendidas.
+- **total_compra**: Total de la compra. Es la compra multiplicada por las unidades vendidas.
+- **total_margen**: Total del margen. Es el margen multiplicado por las unidades vendidas.
 - **id_producto**: Identificador del producto vendido.
 - **id_tienda**: Identificador de la tienda donde se realizó la venta.
 - **id_impuesto**: Identificador del impuesto aplicado.
