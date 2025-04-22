@@ -13,7 +13,7 @@ La gerencia de **Tiendas EIA** ha recolectado información sobre sus ventas, pro
 Este informe debe incluir análisis detallados de las ventas, márgenes, unidades vendidas, y el rendimiento de las tiendas, productos y categorías, entre otros aspectos. La información presentada permitirá a la gerencia tomar decisiones informadas sobre las estrategias comerciales, operaciones y posibles áreas de mejora dentro de la empresa.
 
 ### Fecha de entrega del informe
-**31 de octubre a las 11:59 PM.**
+**18 de mayo a las 11:59 PM.**
 
 ## Instrucciones del Proyecto
 
@@ -117,10 +117,6 @@ A continuación, se describe la estructura de las tablas y sus columnas:
 
 ### Código DDL para creación de tablas
 [DDL](./ddl.sql)
-
-### Recomendación
-
-Se sugiere que los estudiantes repliquen la estructura de esta base de datos en sus propios entornos, clonen los datos, y trabajen localmente en sus consultas y análisis. La base de datos proporcionada tiene permisos limitados, por lo que será más eficiente si tienen su propia instancia.
 
 ---
 
