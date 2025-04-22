@@ -57,7 +57,7 @@ Para ayudarles a orientar su análisis, pueden considerar, pero no limitarse, a 
 
 A continuación, se describe la estructura de las tablas y sus columnas:
 
-## Esquema `retail` en la base de datos del curso.
+#### Esquema `retail` en la base de datos del curso.
 
 #### Tabla: `grupo`
 - **id**: Identificador único del grupo.
